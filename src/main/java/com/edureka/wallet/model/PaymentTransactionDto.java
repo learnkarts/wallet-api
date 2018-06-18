@@ -1,4 +1,4 @@
-package com.edureka.wallet.api;
+package com.edureka.wallet.model;
 
 import java.io.Serializable;
 import java.sql.Timestamp;
